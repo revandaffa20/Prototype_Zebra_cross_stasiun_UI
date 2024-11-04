@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Nov  4 09:47:45 2024
+# Process ID: 10584
+# Current directory: C:/Users/REVAN/Documents/Kuliah/Semester 3/Praktikum elektronika 2/MOD with VHDL/zebracrosssevensegment_version9
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14584 C:\Users\REVAN\Documents\Kuliah\Semester 3\Praktikum elektronika 2\MOD with VHDL\zebracrosssevensegment_version9\zebracrosssevensegment_version9.xpr
+# Log file: C:/Users/REVAN/Documents/Kuliah/Semester 3/Praktikum elektronika 2/MOD with VHDL/zebracrosssevensegment_version9/vivado.log
+# Journal file: C:/Users/REVAN/Documents/Kuliah/Semester 3/Praktikum elektronika 2/MOD with VHDL/zebracrosssevensegment_version9\vivado.jou
+#-----------------------------------------------------------
+start_guioopen_project {C:/Users/REVAN/Documents/Kuliah/Semester 3/Praktikum elektronika 2/MOD with VHDL/zebracrosssevensegment_version9/zebracrosssevensegment_version9.xpr}
+update_compile_order -fileset sources_1
